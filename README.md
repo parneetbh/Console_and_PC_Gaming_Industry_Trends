@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/USERNAME/REPO/main/BANNER.png](https://github.com/parneetbh/Console_and_PC_Gaming_Industry_Trends/blob/main/0_PBJH-XVTDqcMpaAp.png)" width="100%">
+</p>
+
+
 # 🎮 **Console and PC Gaming Industry: Historical Market Analysis (1980–2020)**
 
 This project provides a Tableau-based analysis of the console and PC gaming industry, using historical data to uncover long-term trends in sales, genre evolution, and platform performance. The goal is to understand the economic and behavioral forces that shaped the industry over four decades and to provide insights relevant for developers, publishers, and investors.
