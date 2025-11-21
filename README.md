@@ -68,7 +68,7 @@ Consoles follow a **7–8 year lifecycle**, with clear peaks for PS2 (~2003), PS
 - **Console & PC Gaming Industry.twb** — Tableau workbook
 - **Tableau Dashboard.png** — Preview image of the dashboard
 
-  ---
+---
 
 ## 🧾 **Data Summary**
 
