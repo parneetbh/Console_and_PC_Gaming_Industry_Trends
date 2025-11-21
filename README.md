@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/USERNAME/REPO/main/BANNER.png](https://github.com/parneetbh/Console_and_PC_Gaming_Industry_Trends/blob/main/0_PBJH-XVTDqcMpaAp.png)" width="100%">
+  <img src="https://github.com/parneetbh/Console_and_PC_Gaming_Industry_Trends/blob/main/0_PBJH-XVTDqcMpaAp.png" width="100%">
 </p>
 
 
