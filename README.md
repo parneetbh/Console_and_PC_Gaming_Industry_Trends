@@ -63,6 +63,13 @@ Consoles follow a **7–8 year lifecycle**, with clear peaks for PS2 (~2003), PS
 
 ---
 
+## 📁 Files Included in This Repository
+- **Video_Games_Data.csv** — Raw dataset
+- **Console & PC Gaming Industry.twb** — Tableau workbook
+- **Tableau Dashboard.png** — Preview image of the dashboard
+
+  ---
+
 ## 🧾 **Data Summary**
 
 - 📂 Dataset includes **16,720 video games**  
